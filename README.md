@@ -2,6 +2,10 @@
 
 ![Sample Prediction Banner](https://github.com/user-attachments/assets/0f0cc382-1351-49b4-957a-bdf9622e3bbf)
 
+### Ekip Üyeleri:
+
+- Ata Güneş: [GitHub](https://github.com/AtaGn)
+- Esra Cesur: [GitHub](https://github.com/esracesur4)
 ---
 
 ## 🔰 Giriş
