@@ -66,7 +66,18 @@ Modelin gerçek hayattaki tahmin gücünü göstermek adına test verisinden ras
 ---
 
 ## 🧩 Ekler
+🌐 Streamlit Uygulaması
+Proje kapsamında ayrıca bir Streamlit tabanlı arayüz geliştirilmiştir. Bu arayüz sayesinde kullanıcılar, veri yüklemeden modele kadar tüm süreci görsel olarak deneyimleyebilirler. Arayüz, model sonuçlarını grafiklerle birlikte göstererek daha kullanıcı dostu bir deneyim sunar.
 
+-📄 Uygulama Dosyası: app.py
+-📄 Gereksinimler: requirements.txt
+
+⚠️ Not: Streamlit uygulaması yalnızca aktif bir oturum süresince çalışır. Uzun süreli erişimsizlik durumunda sayfa kapanabilir. Sayfa kapandığında tekrar başlatılması gerekebilir.
+
+💡 Uygulamayı lokal olarak çalıştırmak için:
+
+pip install -r requirements.txt
+streamlit run app.py
 
 ## 🚀 Sonuç ve Gelecek Çalışmalar
 
