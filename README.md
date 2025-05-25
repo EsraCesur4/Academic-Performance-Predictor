@@ -65,20 +65,21 @@ Modelin gerçek hayattaki tahmin gücünü göstermek adına test verisinden ras
 
 ---
 
-## 🧩 Ekler
-🌐 Streamlit Uygulaması
-Proje kapsamında ayrıca bir Streamlit tabanlı arayüz geliştirilmiştir. Bu arayüz sayesinde kullanıcılar, veri yüklemeden modele kadar tüm süreci görsel olarak deneyimleyebilirler. Arayüz, model sonuçlarını grafiklerle birlikte göstererek daha kullanıcı dostu bir deneyim sunar.
+## 🧩 Ekler  
+🌐 Streamlit Uygulaması  
+Proje kapsamında ayrıca bir Streamlit tabanlı arayüz geliştirilmiştir. Bu arayüz sayesinde kullanıcılar, veri yüklemeden modele kadar tüm süreci görsel olarak deneyimleyebilirler. Arayüz, model sonuçlarını grafiklerle birlikte göstererek daha kullanıcı dostu bir deneyim sunar.  
 
--📄 Uygulama Dosyası: app.py
--📄 Gereksinimler: requirements.txt
+-📄 Uygulama Dosyası: app.py  
+-📄 Gereksinimler: requirements.txt  
 
-⚠️ Not: Streamlit uygulaması yalnızca aktif bir oturum süresince çalışır. Uzun süreli erişimsizlik durumunda sayfa kapanabilir. Sayfa kapandığında tekrar başlatılması gerekebilir.
+⚠️ Not: Streamlit uygulaması yalnızca aktif bir oturum süresince çalışır. Uzun süreli erişimsizlik durumunda sayfa kapanabilir. Sayfa kapandığında tekrar başlatılması gerekebilir.  
 
-💡 Uygulamayı lokal olarak çalıştırmak için:
+💡 Uygulamayı lokal olarak çalıştırmak için:  
 
-pip install -r requirements.txt
-streamlit run app.py
-
+```python
+pip install -r requirements.txt  
+streamlit run app.py  
+```
 ## 🚀 Sonuç ve Gelecek Çalışmalar
 
 Bu projede öğrenci davranışları ile akademik başarı arasındaki ilişki başarılı bir şekilde modellenmiştir. Özellikle previous_gpa, stress_anxiety_combined ve attendance_percentage gibi özelliklerin tahmin üzerinde yüksek etkisi olduğu görülmüştür.   
