@@ -91,7 +91,6 @@ Gelecekte Yapılabilecekler
 - Gerçek Zamanlı Veri Toplama: Anket formu/uygulama entegrasyonu ile veri akışı sağlanabilir.
 - Web Tabanlı Arayüz: Kullanıcıların kendi verilerini girerek sınav tahmini alabilecekleri bir uygulama geliştirilebilir.
 - Psikolojik Faktör Analizi: Stres, uyku, sosyal çevre gibi değişkenlerin daha detaylı analizi yapılabilir.
-- Zaman Serisi Modelleme: Uzun vadeli başarı tahminleri için zaman bazlı modeller denenebilir.
 
 ## 🔗 Linkler (Bağlantılar)
 
