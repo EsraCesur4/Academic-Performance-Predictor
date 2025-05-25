@@ -80,6 +80,9 @@ Proje kapsamında ayrıca bir Streamlit tabanlı arayüz geliştirilmiştir. Bu 
 pip install -r requirements.txt  
 streamlit run app.py  
 ```
+![image](https://github.com/user-attachments/assets/bed4619c-8f4a-4a79-817f-1a5fc4a70518)
+
+---
 ## 🚀 Sonuç ve Gelecek Çalışmalar
 
 Bu projede öğrenci davranışları ile akademik başarı arasındaki ilişki başarılı bir şekilde modellenmiştir. Özellikle previous_gpa, stress_anxiety_combined ve attendance_percentage gibi özelliklerin tahmin üzerinde yüksek etkisi olduğu görülmüştür.   
